@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reto2", "Reto2.csproj", "{FD890A63-22A0-476A-86FF-4B7F8E21102D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD890A63-22A0-476A-86FF-4B7F8E21102D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD890A63-22A0-476A-86FF-4B7F8E21102D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD890A63-22A0-476A-86FF-4B7F8E21102D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD890A63-22A0-476A-86FF-4B7F8E21102D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F260D5E-F39E-46E4-B564-DAA73F83BF27}
+	EndGlobalSection
+EndGlobal
